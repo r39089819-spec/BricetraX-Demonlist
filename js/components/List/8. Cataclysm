@@ -1,0 +1,18 @@
+ "id": 87425029,
+    "name": "Cataclysm",
+    "author": "GGb0y",
+    
+    "verifier": "NovaX"
+    "verification": "https://youtu.be/AfNDrkHM6k8?si=fVrTEZUt7__z3AcI",
+    "percentToQualify": "100",
+    
+    "records": [
+        {
+            "user": "Nobody",
+            "link": "https://youtu.be/he4nKrg651U?si=OSzYpfrnoq6Zeq4C",
+            "percent": 100,
+            "hz": 360
+        }
+
+    ]
+}

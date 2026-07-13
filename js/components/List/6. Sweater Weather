@@ -1,0 +1,19 @@
+{
+    "id": 81148582,
+    "name": "Sweater Weather",
+    "author": "VelYT",
+    
+    "verifier": "Esxtra",
+    "verification": "https://youtu.be/sfrkGifVajA?si=6or_7AVjQ4DzKUax",
+    "percentToQualify": "100",
+    
+    "records": [
+        {
+            "user": "Nobody",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+
+    ]
+}
