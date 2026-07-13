@@ -1,0 +1,19 @@
+{
+    "id": 77008332,
+    "name": "Gravity",
+    "author": "KazaGD",
+    
+    "verifier": "Esxtra",
+    "verification": "https://youtu.be/oHQ35IcQcCA?si=-oazRNXa7lOWCqRm",
+    "percentToQualify": "100",
+    
+    "records": [
+        {
+            "user": "Nobody",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+
+    ]
+}
