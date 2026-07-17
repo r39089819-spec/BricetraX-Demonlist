@@ -1,0 +1,19 @@
+{
+    "id": 87425029,
+    "name": "Niwa",
+    "author": "Teno",
+    
+    "verifier": "Esxtra",
+    "verification": "https://youtu.be/EhPxPs5juso?si=KXcjaf-LaAo514lo",
+    "percentToQualify": "100",
+    
+    "records": [
+        {
+            "user": "Iceeeater",
+            "link": "https://youtu.be/he4nKrg651U?si=OSzYpfrnoq6Zeq4C",
+            "percent": 100,
+            "hz": 360
+        }
+
+    ]
+}

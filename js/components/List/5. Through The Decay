@@ -1,0 +1,19 @@
+{
+    "id": 114933189,
+    "name": "Through The Decay",
+    "author": "Spark",
+    
+    "verifier": "Rainfall62",
+    "verification": "https://youtu.be/7YpPSqAMYuA?si=YU_pJBM5C8IyHdWU",
+    "percentToQualify": "99",
+    
+    "records": [
+        {
+            "user": "Esxtra",
+            "link": "https://youtu.be/KlAHBbRdht8?si=UtU4LNr6uBYLha_L",
+            "percent": 100,
+            "hz": 360
+        }
+
+    ]
+}
